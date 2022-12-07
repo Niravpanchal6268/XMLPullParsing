@@ -1,0 +1,46 @@
+<?xml version ="1.0" ?>
+<class>
+
+    <student>
+        <name>c</name>
+        <rollno>1</rollno>
+        <age>10</age>
+    </student>
+
+    <student>
+        <name>c++</name>
+        <rollno>2</rollno>
+        <age>11</age>
+    </student>
+
+    <student>
+        <name>java</name>
+        <rollno>3</rollno>
+        <age>12</age>
+    </student>
+
+    <student>
+        <name>android</name>
+        <rollno>4</rollno>
+        <age>13</age>
+    </student>
+
+    <student>
+        <name>python</name>
+        <rollno>5</rollno>
+        <age>14</age>
+    </student>
+    <student>
+        <name>html</name>
+        <rollno>15</rollno>
+        <age>1</age>
+    </student>
+    <student>
+        <name>html</name>
+        <rollno>16</rollno>
+        <age>15</age>
+    </student>
+
+
+
+</class>
